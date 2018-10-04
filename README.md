@@ -1,6 +1,7 @@
 # Tagger
-Aplicativo para iOS para etiquetar lugares divididos em categorias
-\nEscrito originalmente em Swift 2.0 e adaptado para Swift 3.0 (podem haver problemas de execução devido à adaptação)
+Aplicativo para iOS para etiquetar lugares divididos em categorias. 
+
+Escrito originalmente em Swift 2.0 e adaptado para Swift 3.0 (podem haver problemas de execução devido à adaptação)
 
 Funcionalidades:
 - Criar nova categoria
